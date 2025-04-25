@@ -9,8 +9,8 @@
   * bulma-accordian (as the more general 'bulma-collapsible')
   * bulma-badge
 * Handed on to @michael-hack
-  * bulma-calendar
-* abandoned (and later resurrected by @dtbullock in April 2025)
+  * [bulma-calendar](https://github.com/michael-hack/bulma-calendar)
+* abandoned (and later resurrected by @dtbullock in April 2025 under this @bulma-extensions og:
   * bulma-carousel
   * bulma-checkradio
   * bulma-iconpicker

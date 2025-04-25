@@ -10,7 +10,7 @@
   * bulma-badge
 * Handed on to @michael-hack
   * [bulma-calendar](https://github.com/michael-hack/bulma-calendar)
-* abandoned (and later resurrected by @dtbullock in April 2025 under this @bulma-extensions og:
+* abandoned (and later resurrected by @dtbullock in April 2025 under this @bulma-extensions org):
   * bulma-carousel
   * bulma-checkradio
   * bulma-iconpicker
